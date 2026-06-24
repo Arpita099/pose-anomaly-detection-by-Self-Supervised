@@ -1,0 +1,23 @@
+# Data files (large) — keep dir structure but ignore contents
+data/*
+!data/.gitkeep
+!data/README.md
+
+# Model checkpoints (large)
+checkpoints/*
+
+# Output files (generated)
+output/*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

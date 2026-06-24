@@ -1,0 +1,11 @@
+# Core deep learning
+torch>=2.0.0
+numpy>=1.23.0
+
+# Visualization
+matplotlib>=3.6.0
+opencv-python>=4.7.0
+
+# Pose extraction (video mode only)
+mediapipe>=0.10.0
+tqdm>=4.64.0
